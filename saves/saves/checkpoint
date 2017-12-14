@@ -1,0 +1,6 @@
+model_checkpoint_path: "conv4_adam_whole"
+all_model_checkpoint_paths: "conv4_adam_whole-6"
+all_model_checkpoint_paths: "conv4_adam_whole-7"
+all_model_checkpoint_paths: "conv4_adam_whole-8"
+all_model_checkpoint_paths: "conv4_adam_whole-9"
+all_model_checkpoint_paths: "conv4_adam_whole"
